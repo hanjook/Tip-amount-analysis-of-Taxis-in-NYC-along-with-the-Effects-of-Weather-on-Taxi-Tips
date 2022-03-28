@@ -1,0 +1,3 @@
+Required packages to install:
+pip install...
+- geopandas, folium, feather, statsmodels, seaborn
