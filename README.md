@@ -1,9 +1,3 @@
-# MAST30034 Project 1 - Quantitative Analysis
-- Student Name: Hanjoo Kim
-- Student ID: 1078371
-- Due Date: Friday 16th of August 11:59:00 am (AEST).
-- Report Link: _Insert Report Link if applicable_
-
 # Dependencies
 - Language: _i.e Python 3.8.3 and/or R 4.05_
 - Packages / Libraries: _i.e pandas, pyspark, sklearn, statsmodels, folium, etc... 
